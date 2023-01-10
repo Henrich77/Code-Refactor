@@ -4,6 +4,8 @@
 
 this challenge required that I replaced certain elements in the HTML to semantic elements and adjust the style sheet to keep the same style.
 
+Deployed page :https://henrich77.github.io/Code-Refactor/
+
 ## Installation
 
 n/a
