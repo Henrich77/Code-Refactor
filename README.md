@@ -12,6 +12,10 @@ n/a
 
 used to basically modernize prior coding and assist in making it easier to read I suppose.
 
+<img src=".assets/images/Screenshot 2023-01-09 at 11.15.18 PM.png">
+<img src=".assets/images/Screenshot 2023-01-09 at 11.15.25 PM.png">
+
+
 ## Credits
 
 Henrich Tanis
